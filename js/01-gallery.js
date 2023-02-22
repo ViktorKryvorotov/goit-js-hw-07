@@ -35,7 +35,8 @@ function onSetGalleryClick(event) {
     <img src="${event.target.dataset.source}">
 `)
 
-instance.show()
+    instance.show()
+    
 }
 
 // import * as basicLightbox from 'basiclightbox'

@@ -1,9 +1,9 @@
 export const galleryItems = [
   {
     preview:
-      'https://pixabay.com/get/g70eec56ac96b5fcacddc04d4aad6cb933b44838e5decf1dc82cc123b7363336317a98c50c3f38314f3a8b3cdc7330a10506e5611072bdbaec93e7d920b528fb6066e9f14cf0332d63f7b35346fa56bd3_640.jpg',
+      'https://pixabay.com/get/ga2c2e15d387cbfb797813ba03bebb6ac71332c10cbacc67fe2ed26cb0524c692d99a98effbd5b8354b32ff035c4e368e844acf770b819be574146fb56e63d6bbad677ef306ac25c5e8db36537007a756_640.jpg',
     original:
-      'https://pixabay.com/get/g759e317a154493633299fbc12a72b7106b07d980f38212ff656e7e3a688f68f8ffcf30ede302dca2c3c6fafdee5674dd6e8230a9bd5590431e0833f6502ed971d9c38952402e376c04e71fb28774afa9_1280.jpg',
+      'https://pixabay.com/get/g7b52ee53df4bd46c04cad37c8785dcf8d8a75636161c00052477eb5afe734b8a21f43087b572f340554af4068d0ed70bd10c2475d8043beb0b0bf82f9dcc12282e2cd309fd13b9d3a1038f61500bf446_1280.jpg',
     description: 'Hokkaido Flower',
   },
   {
